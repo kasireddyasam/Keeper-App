@@ -10,14 +10,13 @@ TaskPad is a ✨ React-based ✨ note-taking application that allows users to �
 - 🔧 Dynamic state management using React hooks.
 
 ## Screenshots
-
 ### 🏠 Home Page:
-![TaskPad Home Page]
-![Screenshot 2024-12-26 125608.png](https://github.com/user-attachments/assets/c2356f17-2459-487d-9f60-5a01bef2987a)
+![TaskPad Home Page](img/Screenshot%202024-12-26%20125204.png)
 
 
 ### 🔢 Notes Page:
-![TaskPad Notes Page](path-to-screenshot2.png)
+![TaskPad Notes Page](img/Screenshot%202024-12-26%20125608.png)
+
 
 ## Installation
 
